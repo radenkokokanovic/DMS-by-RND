@@ -91,6 +91,7 @@ $('#dokumentacija').on('click',function() {
 })
 var tabelaPatch,nazivFajlaIzGrida;
 $.ajax({
+  //test
 url:'citajNaziveFajlova.php',
 type: 'POST',
 dataType: 'JSON',
