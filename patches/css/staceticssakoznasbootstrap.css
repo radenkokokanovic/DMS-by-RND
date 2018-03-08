@@ -1,0 +1,15 @@
+.noresize{
+  resize: none;
+}
+.mainKlasa{
+    margin: 10px;
+}
+#cpPatches p{
+  opacity: 0.7;
+}
+#dokumentacija{
+  margin-right: 0px;
+}
+#dugmeBrisanje{
+  margin-left: 0px;
+}

@@ -1,0 +1,1 @@
+{"imeFajla":"Patch 1.06.txt","faza":"Tužbe","korisnik":"Nemanja Tomanović","datum":"2018-03-07 08:03:09","sadrzaj":"1. Izmjena metode /preuzmiNalog. Metoda sada prima dva dodatna parametra: userName i opis (ref. dokumentacija tacka 15)\n\n2. Dodata nova metoda : /sviAktivniNalozi. Metodom se razmotavaju svi aktivni nalozi (ref. dokumentacija tacka 17)"}

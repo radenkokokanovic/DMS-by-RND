@@ -1,0 +1,1 @@
+{"imeFajla":"Patch 1.07.txt","faza":"Tužbe","korisnik":"Nemanja Tomanović","datum":"2018-03-05 11:03:39","sadrzaj":"1. Metoda /insertOpomenu umjesto parametra opis(String) sada prima parametar idStatusa(Long), ref dokumentacija tačka 16.\n2. Dodata nova metoda: /statusNaloga kojom se može provjeriti status bilo kog trenutno aktivnog koraka. Ref dokumentacija tačka 18."}

@@ -1,0 +1,1 @@
+{"imeFajla":"Patch 1.06a.txt","faza":"Tužbe","korisnik":"Nemanja Tomanović","datum":"2018-02-23 16:02:74","sadrzaj":"1. Izmjena metode /sviAktivniNalozi: izmjena parametra, od sada se ne šalje parametar korisnikId već parametar userName (ref. dokumentacija tačka 17)"}
