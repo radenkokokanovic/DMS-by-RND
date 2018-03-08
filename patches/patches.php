@@ -321,7 +321,7 @@ function posaljiPodatke () {
   });
 }
 
-//Radenko was here.
+//Radenko was here. Nemanja also.
 
 </script>
   </body>
